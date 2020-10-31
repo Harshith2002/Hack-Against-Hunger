@@ -14,13 +14,13 @@ HungerHackers
 
 ### 3. Name of project
 
-   Hack against Hunger
+   HackAgainstHunger
 
 ### 4. One liner for project
 
    End hunger, achieve food security & improved nutrition and promote sustainable development
 
-### 5. Which sdg does your project align with? 
+### 5. Which SDG does your project align with? 
 
    Sustainable Development Goal 2: Zero Hunger
 
@@ -46,7 +46,7 @@ The main objectives of the proposed application include a reduction in wastage o
   | HTML 5 | Appearance of website |
   | CSS 3 | Adding style and presentation to the web-pages  |
   | JavaScript | Adding interactive user behavior to web pages |
-  | Bootstrap v4.0 | front-end framework used for UI |
+  | Bootstrap v3.3.7 | front-end framework used for UI |
   | PHP | Server side programming and interactive with phpMyAdmin |
   | MySQL | For the purpose of a web database and logging application |
   | phpMyAdmin | Management of databases, tables, indexes, permissions |
